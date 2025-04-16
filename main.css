@@ -45,6 +45,12 @@ a:link{
     text-align: center;
   }
   
+.about-header img{
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
   .centered {
     position: absolute;
     top: 50%;
